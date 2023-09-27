@@ -1,0 +1,4 @@
+#!/bin/bash
+set -e
+
+./target/poc-graalvm-java-lambda $_HANDLER

@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\Qaws-lambda-runtime-interface-client.glibc.so\\E"
+      },
+      {
+        "pattern": "\\Qaws-lambda-runtime-interface-client.musl.so\\E"
+      },
+      {
+        "pattern": "\\Qjni/libaws-lambda-jni.linux-x86_64.so\\E"
+      },
+      {
+        "pattern": "\\Qjni/libaws-lambda-jni.linux-aarch_64.so\\E"
+      },
+      {
+        "pattern": "\\Qjni/libaws-lambda-jni.linux_musl-x86_64.so\\E"
+      },
+      {
+        "pattern": "\\Qjni/libaws-lambda-jni.linux_musl-aarch_64.so\\E"
+      }
+    ]
+  },
+  "bundles": []
+}
